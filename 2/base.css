@@ -1,0 +1,19 @@
+body h1 {
+	color: #282275;
+	font-family: "HG創英角ﾎﾟｯﾌﾟ体";
+	text-align: center;
+}
+body p {
+}
+.key {
+	background-color: #FFF75D;
+	color: #443AC5;
+	font-size: 25px;
+}
+body {
+    background-image: url(background137.jpg);
+    background-size: cover;
+}
+body img {
+	border: 10px dotted #3AC575;
+}
