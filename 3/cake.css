@@ -1,0 +1,37 @@
+@charset "utf-8";
+img{
+    width: 100%;
+    background-color: #FFDAB0;
+}
+.shop{
+    width: 100%;
+    background-color: #FFDAB0;
+}
+.cakesR{
+    float: right;
+    width: 44%;
+    background-color: #FFDAB0;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+.cakesL{
+    float: left;
+    width: 44%;
+    background-color: #FFDAB0;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.wrap{
+	display:flex;
+	flex-wrap:wrap;
+}
+#big box {
+	width: 3000px;
+	height: 1300px;
+}
+body {
+    background-color: #FFEAD2;
+}
